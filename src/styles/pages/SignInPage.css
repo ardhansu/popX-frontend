@@ -1,0 +1,32 @@
+.signin-page {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 32px 20px;
+  background-color: var(--color-white);
+}
+
+.signin-content {
+  width: 100%;
+}
+
+.signin-title {
+  font-size: 28px;
+  font-weight: 600;
+  color: var(--color-dark);
+  margin-bottom: 8px;
+}
+
+.signin-subtitle {
+  font-size: 16px;
+  color: var(--color-gray);
+  margin-bottom: 32px;
+}
+
+.signin-form {
+  margin-top: 24px;
+}
+
+.signin-form button {
+  margin-top: 32px;
+}
