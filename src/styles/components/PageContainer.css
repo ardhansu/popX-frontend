@@ -4,7 +4,7 @@
   flex-direction: column;
   position: relative;
   overflow: hidden;
-  width: 320 px;
+  width: 400px;
   margin: 0 auto;
   background: var(--color-white);
 }
